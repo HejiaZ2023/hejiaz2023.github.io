@@ -13,8 +13,12 @@ Education
 
 Work Experience
 ------
+
+<!---
 * 11/2023 - 02/2024: Part-time FPGA Engineer in [Nano-Optoelectronics Lab](http://nano-oelab.ee.tsinghua.edu.cn/Home/index/index.html), Tsinghua University
   * Implementing optoelectronic hybrid computation system based on Xilinx SoC platform
+--->
+
 * 08/2021 - 08/2023: Hardware Developer in [Akuna Capital Shanghai](https://akunacapital.com/)
   * Developing low-latency trading FPGA system, based on SystemVerilog & C++
   * Doing data-driven research on market micro-structure, looking for factors affecting hit rate
