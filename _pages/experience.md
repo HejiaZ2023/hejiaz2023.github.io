@@ -7,6 +7,7 @@ redirect_from:
 
 Education
 ------
+* 09/2024 - now: Master of Science in Computer Engineering, University of California, San Diego
 * 09/2017 - 06/2021: Bachelor of Electronic Engineering, Tsinghua University
   * GPA 3.79/4, Rank 27/240 in 03/2021
   * Core courses: Discrete Mathematics, Data and Algorithm, Database, Communications and Networks
@@ -14,10 +15,8 @@ Education
 Work Experience
 ------
 
-<!---
 * 11/2023 - 02/2024: Part-time FPGA Engineer in [Nano-Optoelectronics Lab](http://nano-oelab.ee.tsinghua.edu.cn/Home/index/index.html), Tsinghua University
   * Implementing optoelectronic hybrid computation system based on Xilinx SoC platform
---->
 
 * 08/2021 - 08/2023: Hardware Developer in [Akuna Capital Shanghai](https://akunacapital.com/)
   * Developing low-latency trading FPGA system, based on SystemVerilog & C++
