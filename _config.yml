@@ -24,7 +24,7 @@ author:
   avatar           : "hejia_profile.jpg"
   name             : "Hejia Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Enthusiast in ML System"
+  bio              : "B.S. Tsinghua Univ."
   location         : "San Diego, U.S."
   employer         : # "Applying for MS programs"
   uri              : # URL
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : https://www.zhihu.com/people/dbmw
+  zhihu            : # Username
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

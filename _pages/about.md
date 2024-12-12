@@ -5,18 +5,21 @@ author_profile: true
 redirect_from: 
 ---
 
-This is Hejia Zhang, an enthusiast in ML System. I'm an MS student in Computer Engineering at UCSD, California.
+This is Hejia Zhang, a 1st-year MS student in Computer Engineering at UCSD, California. I'm current doing LLM-Agent related research advised by Prof. [Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/).
 
 I was a hardware developer at Akuna Capital, developing low-latency trading system based on SystemVerilog & C++. Before that, I got my bachelor's degree from Department of EE, Tsinghua University.
 
-[comment]: # (I've started posting Chinese contents on [zhihu](https://www.zhihu.com/people/dbmw/posts))
 
-<!---
 Publications
 ------
-I really wish I could put something here.
---->
+[**MAGE: A Multi-Agent Engine for Automated RTL Code Generation**](https://arxiv.org/pdf/2412.07822)  
+Yujie Zhao* , **Hejia Zhang\*** , Hanxian Huang, Zhongming Yu, Jishen Zhao  
+*arXiv preprint, 2024*  
+\* stands for equal contribution  
+\[[code](https://github.com/stable-lab/MAGE)\] \[[poster](https://drive.google.com/file/d/1vmkh9RVMuNOPsyVoJUBmegcTb5BHYbQ0/view)\]  
 
+
+<!---
 Projects Worked on recently
 ------
 
@@ -30,3 +33,4 @@ Projects Worked on recently
 * C++ based TCP Server
   * Implemented complete TCP state machine
   * Supported features: reassembling, flow control, retransmission 
+--->
