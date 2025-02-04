@@ -12,11 +12,17 @@ I was a hardware developer at Akuna Capital, developing low-latency trading syst
 
 Publications
 ------
-[**MAGE: A Multi-Agent Engine for Automated RTL Code Generation**](https://arxiv.org/pdf/2412.07822)  
-Yujie Zhao* , **Hejia Zhang\*** , Hanxian Huang, Zhongming Yu, Jishen Zhao  
-*arXiv preprint, 2024*  
-\* stands for equal contribution  
-\[[code](https://github.com/stable-lab/MAGE)\] \[[poster](https://drive.google.com/file/d/1vmkh9RVMuNOPsyVoJUBmegcTb5BHYbQ0/view)\]  
+[**MAGE: A Multi-Agent Engine for Automated RTL Code Generation**](https://arxiv.org/pdf/2412.07822)
+Yujie Zhao*, **Hejia Zhang\***, Hanxian Huang, Zhongming Yu, Jishen Zhao
+*arXiv preprint, 2024*
+\* stands for equal contribution
+\[[code](https://github.com/stable-lab/MAGE)\] \[[poster](https://drive.google.com/file/d/1vmkh9RVMuNOPsyVoJUBmegcTb5BHYbQ0/view)\]
+
+------
+[**OrcaLoca: An LLM Agent Framework for Software Issue Localization**](https://arxiv.org/abs/2502.00350)
+Zhongming Yu*, **Hejia Zhang\***, Yujie Zhao, Hanxian Huang, Matrix Yao, Ke Ding, Jishen Zhao
+*arXiv preprint, 2025*
+\* stands for equal contribution
 
 
 <!---
