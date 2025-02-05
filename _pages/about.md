@@ -23,6 +23,7 @@ Yujie Zhao*, **Hejia Zhang\***, Hanxian Huang, Zhongming Yu, Jishen Zhao
 Zhongming Yu*, **Hejia Zhang\***, Yujie Zhao, Hanxian Huang, Matrix Yao, Ke Ding, Jishen Zhao  
 *arXiv preprint, 2025*  
 \* stands for equal contribution  
+\[[code](https://github.com/fishmingyu/OrcaLoca)\]  
 
 
 <!---
