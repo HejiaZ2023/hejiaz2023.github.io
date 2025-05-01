@@ -25,9 +25,9 @@ Yujie Zhao\*, **Hejia Zhang\***, Hanxian Huang, Zhongming Yu, Jishen Zhao
 ------
 [**OrcaLoca: An LLM Agent Framework for Software Issue Localization**](https://arxiv.org/abs/2502.00350)  
 Zhongming Yu\*, **Hejia Zhang\***, Yujie Zhao, Hanxian Huang, Matrix Yao, Ke Ding, Jishen Zhao  
-*arXiv preprint, 2025*  
+*Accepted by the 42th International Conference on Machine Learning (ICML), 2025*  
 \* stands for equal contribution  
-\[[code](https://github.com/fishmingyu/OrcaLoca)\]  
+\[[code](https://github.com/fishmingyu/OrcaLoca)\] \[[website](https://fishmingyu.github.io/OrcaLoca/)]
 
 
 <!---
