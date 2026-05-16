@@ -29,25 +29,16 @@ Yujie Zhao\*, **Hejia Zhang\***, Hanxian Huang, Zhongming Yu, Jishen Zhao
 \[[code](https://github.com/stable-lab/MAGE)\] \[[website](https://stable-lab.github.io/MAGE/)] \[[poster](https://drive.google.com/file/d/1vmkh9RVMuNOPsyVoJUBmegcTb5BHYbQ0/view)\]  
 
 ------
-[**OrcaLoca: An LLM Agent Framework for Software Issue Localization**](https://arxiv.org/abs/2502.00350)  
+[**OrcaLoca: An LLM Agent Framework for Software Issue Localization**](https://proceedings.mlr.press/v267/yu25x.html)  
 Zhongming Yu\*, **Hejia Zhang\***, Yujie Zhao, Hanxian Huang, Matrix Yao, Ke Ding, Jishen Zhao  
 *In the Proceedings of the 42nd International Conference on Machine Learning (ICML), 2025*  
 \* stands for equal contribution  
 \[[code](https://github.com/fishmingyu/OrcaLoca)\] \[[website](https://fishmingyu.github.io/OrcaLoca/)]
 
 
-<!---
-Projects Worked on recently
+
+Services: Program Committee Member & Reviewer
 ------
 
-* minitorch: python re-inplementation of Torch API
-  * A DIY project to improve understanding of Deep Learning system
-  * Including implementaion of key features: Autodiff, CUDA operation, etc.
-
-* CUDA based circle renderer
-  * Supported rendering partial-transparent circles with arbitrary spatial order
-  * Achieved high performance by utilizing registers/shared memory
-* C++ based TCP Server
-  * Implemented complete TCP state machine
-  * Supported features: reassembling, flow control, retransmission 
---->
+International Conference on Machine Learning (**ICML**) 2026 (Gold Reviewer)  
+NSF Workshop on Agents for Chip Design Automation (**Agent4Chip**) 2026

@@ -10,7 +10,7 @@ Education
 * 09/2025 - now: Doctor of Philosophy in Computer Science, University of California, San Diego
 * 09/2024 - 09/2025: Master of Science in Computer Engineering, University of California, San Diego
 * 09/2017 - 06/2021: Bachelor of Electronic Engineering, Tsinghua University
-  * GPA 3.79/4, Rank 27/240 in 03/2021
+  <!--* GPA 3.79/4, Rank 27/240 in 03/2021-->
 
 Work Experience
 ------
