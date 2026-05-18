@@ -21,12 +21,12 @@ repository               : "HejiaZ2023/hejiaz2023.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hejia_profile.jpg"
+  avatar           : "hejia_profile_2026.jpg"
   name             : "Hejia Zhang"
   pronouns         : # example: "she/her"  
   bio              : "B.S. Tsinghua Univ."
   location         : "San Diego, U.S."
-  employer         : # "Applying for MS programs"
+  employer         : "UC San Diego"
   uri              : # URL
   email            : "hejiazhang2023@outlook.com" 
 
