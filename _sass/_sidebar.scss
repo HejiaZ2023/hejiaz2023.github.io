@@ -229,6 +229,13 @@
     white-space: nowrap;
   }
 
+  .profile-link-icon {
+    width: 1.25em;
+    height: 1em;
+    object-fit: contain;
+    vertical-align: -0.125em;
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
