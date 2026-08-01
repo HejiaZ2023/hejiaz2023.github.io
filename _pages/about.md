@@ -35,10 +35,16 @@ Zhongming Yu\*, **Hejia Zhang\***, Yujie Zhao, Hanxian Huang, Matrix Yao, Ke Din
 \* stands for equal contribution  
 \[[code](https://github.com/fishmingyu/OrcaLoca)\] \[[website](https://fishmingyu.github.io/OrcaLoca/)]
 
+Other Publications
+------
+(Accepted by DAC 2026) [PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification](https://arxiv.org/abs/2506.12200)   
+(Accepted by COLM 2026) [FinHardBench: Can LLMs Generate Latency-Aware Hardware for Financial Computing?](https://colmweb.org/)   
 
 
 Services: Program Committee Member & Reviewer
 ------
 
 International Conference on Machine Learning (**ICML**) 2026 (Gold Reviewer)  
-NSF Workshop on Agents for Chip Design Automation (**Agent4Chip**) 2026
+Annual AAAI Conference on Artificial Intelligence (**AAAI**) 2027  
+Transactions on Machine Learning Research (**TMLR**) 2026  
+NSF Workshop on Agents for Chip Design Automation (**Agent4Chip**) 2026  (Program Committee)
