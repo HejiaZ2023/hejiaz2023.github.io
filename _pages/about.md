@@ -38,7 +38,7 @@ Zhongming Yu\*, **Hejia Zhang\***, Yujie Zhao, Hanxian Huang, Matrix Yao, Ke Din
 Other Publications
 ------
 (Accepted by DAC 2026) [PRO-V-R1: Reasoning Enhanced Programming Agent for RTL Verification](https://arxiv.org/abs/2506.12200)   
-(Accepted by COLM 2026) [FinHardBench: Can LLMs Generate Latency-Aware Hardware for Financial Computing?](https://colmweb.org/)   
+(Accepted by COLM 2026) [FinHardBench: Can LLMs Generate Latency-Aware Hardware for Financial Computing?](https://arxiv.org/abs/2608.00909)   
 
 
 Services: Program Committee Member & Reviewer
