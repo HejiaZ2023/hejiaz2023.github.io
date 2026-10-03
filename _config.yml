@@ -147,6 +147,7 @@ include:
   - _pages
   - files
 exclude:
+  - photos
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
